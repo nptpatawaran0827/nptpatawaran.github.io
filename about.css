@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+.box{
+	margin: 0px;
+	padding: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 98.97%;
+	height: 1200px;
+	background: rgb(240, 217, 179, 0.8);
+	text-align: center;
+}
+
+.about{
+	font-family: 'Poppins', sans-serif;
+	font-size: 50px;
+}
+
+p{
+	font-size: 20px;
+}
+
+.member1{
+	width: 18%;
+	height: auto;
+	margin-left: 550px;
+	margin-bottom: 30px;
+	padding: 20px;
+	background-color: transparent;
+	align-content: center;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.member2{
+	width: 18%;
+	height: auto;
+	margin: 50px;
+	padding: 20px;
+	background-color: transparent;
+	align-content: center;
+	position: absolute;
+	top: 195px;
+	right: 500px;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.picture{
+	width: 230px;
+	height: 300px;
+}
+
+.section1{
+	margin-top: 20px;
+	margin-left: 75px;
+	width: 90%;
+	height: auto;
+	padding: 15px;
+	background: rgb(194, 53, 30, 0.7);
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	color: whitesmoke;
+	border-radius: 30px;
+}
+
+.section2{
+	width: 90%;
+	height: auto;
+	padding: 15px;
+	margin-left: 75px;
+	background: rgb(194, 53, 30, 0.7);
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	color: whitesmoke;
+	border-radius: 30px;
+}
+
+.section3{
+	width: 90%;
+	height: auto;
+	padding: 15px;
+	margin-left: 75px;
+	background: rgb(194, 53, 30, 0.7);
+	font-family: 'Poppins', sans-serif;
+	padding-bottom: 30px;
+	color: whitesmoke;
+	border-radius: 30px;
+}
